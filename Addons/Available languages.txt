@@ -1,0 +1,5 @@
+!insertmacro LANGUAGE_EN "English"
+!insertmacro LANGUAGE_DE "Deutsch"
+!insertmacro LANGUAGE_ES "Espanol"
+!insertmacro LANGUAGE_IT "Italiano"
+!insertmacro LANGUAGE_PL "Polish"
